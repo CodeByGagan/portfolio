@@ -1,0 +1,70 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.nav_bar_color {
+  background: #49505e;
+}
+.nav_color{
+  color: rgba(227, 235, 235, 0.734);;
+}
+.hero {
+  background: radial-gradient(#2f3640 15%, transparent 16%) 0 0,
+    radial-gradient(#2f3640 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255, 255, 255, 0.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255, 255, 255, 0.1) 15%, transparent 20%) 8px 9px;
+  background-color: #353b48;
+  background-size: 16px 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 3px black;
+  min-height: 100vh;
+  margin: 0;
+}
+.container1 {
+  color: rgba(227, 235, 235, 0.734);
+  min-width: 300px;
+  min-height: 150px;
+}
+.skills_bg {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url("https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+  background-size: cover;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.html_{
+  color: #ee3f3f;
+}
+.css_{
+  color: #2965f1;
+}
+.bootstrap_{
+  color: #563d7c;
+}
+.javascript_{
+  color: #f0db4f;
+}
+.reactjs_{
+  color: #88dded;
+}
+.java_{
+  color: #5382a1;
+}
+.gitbash_{
+  color: #fff;
+}
+.github_{
+  color: #fff;
+}
+.sql_{
+  color: #fff;
+}
+.postgresql_{
+  color: #fff;
+}
+.projects{
+  margin-top: -16px;
+  background-color: #353b48;
+  min-height: 100vh;
+}
